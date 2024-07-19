@@ -52,7 +52,7 @@ def main():
 
 
 #  test OK
-# Для запуска задаем длинный путь или переходим в папку task_2св
+# Для запуска задаем длинный путь или переходим в папку task_2
 #  python C:\projects\Python_projects\gb_second_year\1_Python\home_work\task_2\main.py
 #  "Hello" 123 -p C:\projects\Python_projects\gb_second_year\1_Python\home_work\task_2
 
